@@ -9,13 +9,11 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 const texts = [
-"嗨",
-"你好",
-"你怎麼找到這裡的",
-"但是",
-"你可以看看網址",
-"很酷",
-"對吧?"];
+"嘿",
+"哈摟 娜",
+"我跟你說喔",
+"其實",
+"我非常愛你喔"];
 
 
 // Controls the speed of morphing.
